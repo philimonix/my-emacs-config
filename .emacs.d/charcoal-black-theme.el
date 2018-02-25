@@ -32,7 +32,7 @@
 (custom-theme-set-faces
  'charcoal-black
 
- '(default ((t (:background "Grey15" :foreground "Grey"))))
+; '(default ((t (:background "Grey15" :foreground "Grey"))))
  '(mouse ((t (:background "Grey"))))
  '(cursor ((t (:background "Grey"))))
  '(border ((t (:background "Grey"))))
